@@ -7,3 +7,7 @@ print(a/b)
 print(a//b)
 print(a%b)
 print("thank you")
+
+
+char='a'
+print(ord(char))
